@@ -6,5 +6,5 @@ I can currently not keep the bot up 24/7 so if you would like to run this bot on
 <h1>Adding new currencies.</h1>
 This bot does not have much support at the moment. More is coming soon, although if you would like to suggest one please sumbit an issue.
 
-<h1>Disclaimer<>/h1>
+<h1>Disclaimer</h1>
   My code is pretty atrocious, I am very new to programming so if you have any suggestions please send them my way. :)
