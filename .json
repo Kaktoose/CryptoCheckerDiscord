@@ -1,0 +1,5 @@
+//Keep this file private if you decide to run the bot yourself
+
+{
+  "DISCORD_TOKEN": "insert token here"
+}
